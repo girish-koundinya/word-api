@@ -1,0 +1,13 @@
+{
+  "name": "word-api",
+  "version": "0.0.1",
+  "description": "A word question api",
+  "main": "server.js",
+  "dependencies": {
+    "natural": "0.1.22",
+    "fast-csv" : "0.6.0",
+    "async" : "0.9.0",
+    "firebase" : "2.2.4"
+  },
+  "license": "MIT"
+}
